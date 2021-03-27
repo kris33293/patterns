@@ -1,16 +1,4 @@
-"mentor1: New Task: Student1 tasks
- (total: 1 tasks)
-"mentor1: New Task: Student1 tasks
- (total: 2 tasks)
-"mentor1: New Task: Student1 tasks
- (total: 3 tasks)
-"mentor2: New Task: Student2 tasks
- (total: 1 tasks)
-"mentor2: New Task: Student2 tasks
- (total: 2 tasks)
-"mentor2: New Task: Student2 tasks
- (total: 3 tasks)
-"mentor2: New Task: Student3 tasks
- (total: 1 tasks)
-"mentor2: New Task: Student3 tasks
- (total: 2 tasks)
+NBook{author='autor3', title='tytul3', publicationYear=1978, signature='003'}
+NBook{author='autor2', title='tytul2', publicationYear=1988, signature='002'}
+NBook{author='autor1', title='tytul1', publicationYear=1958, signature='001'}
+1978

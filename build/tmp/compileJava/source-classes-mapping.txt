@@ -74,3 +74,33 @@ com/kodilla/patterns2/observer/homework/Inform.java
  com.kodilla.patterns2.observer.homework.Inform
 com/kodilla/patterns2/observer/homework/Task.java
  com.kodilla.patterns2.observer.homework.Task
+com/kodilla/patterns2/adapter/company/oldhrsystem/SalaryCalculator.java
+ com.kodilla.patterns2.adapter.company.oldhrsystem.SalaryCalculator
+com/kodilla/patterns2/adapter/company/SalaryAdaptee.java
+ com.kodilla.patterns2.adapter.company.SalaryAdaptee
+com/kodilla/patterns2/adapter/company/oldhrsystem/Workers.java
+ com.kodilla.patterns2.adapter.company.oldhrsystem.Workers
+com/kodilla/patterns2/adapter/company/newhrsystem/Employee.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.Employee
+com/kodilla/patterns2/adapter/company/SalaryAdapter.java
+ com.kodilla.patterns2.adapter.company.SalaryAdapter
+com/kodilla/patterns2/adapter/company/newhrsystem/CompanySalaryProcessor.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.CompanySalaryProcessor
+com/kodilla/patterns2/adapter/company/newhrsystem/SalaryProcessor.java
+ com.kodilla.patterns2.adapter.company.newhrsystem.SalaryProcessor
+com/kodilla/patterns2/adapter/bookclassifier/libraryb/BookSignature.java
+ com.kodilla.patterns2.adapter.bookclassifier.libraryb.BookSignature
+com/kodilla/patterns2/adapter/bookclassifier/librarya/Classifier.java
+ com.kodilla.patterns2.adapter.bookclassifier.librarya.Classifier
+com/kodilla/patterns2/adapter/bookclassifier/libraryb/Book.java
+ com.kodilla.patterns2.adapter.bookclassifier.libraryb.Book
+com/kodilla/patterns2/adapter/bookclassifier/libraryb/Statistics.java
+ com.kodilla.patterns2.adapter.bookclassifier.libraryb.Statistics
+com/kodilla/patterns2/adapter/bookclassifier/MedianAdaptee.java
+ com.kodilla.patterns2.adapter.bookclassifier.MedianAdaptee
+com/kodilla/patterns2/adapter/bookclassifier/libraryb/BookStatistics.java
+ com.kodilla.patterns2.adapter.bookclassifier.libraryb.BookStatistics
+com/kodilla/patterns2/adapter/bookclassifier/MedianAdapter.java
+ com.kodilla.patterns2.adapter.bookclassifier.MedianAdapter
+com/kodilla/patterns2/adapter/bookclassifier/librarya/Book.java
+ com.kodilla.patterns2.adapter.bookclassifier.librarya.Book
