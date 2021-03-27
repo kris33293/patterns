@@ -8,3 +8,7 @@ com/kodilla/patterns2/decorator/taxiportal/TaxiOrderTestSuite.java
  com.kodilla.patterns2.decorator.taxiportal.TaxiOrderTestSuite
 com/kodilla/patterns2/aop/calculator/CalculatorTestSuite.java
  com.kodilla.patterns2.aop.calculator.CalculatorTestSuite
+com/kodilla/patterns2/observer/forum/ForumTopicTestSuite.java
+ com.kodilla.patterns2.observer.forum.ForumTopicTestSuite
+com/kodilla/patterns2/observer/homework/HomeworkTestSuit.java
+ com.kodilla.patterns2.observer.homework.HomeworkTestSuit

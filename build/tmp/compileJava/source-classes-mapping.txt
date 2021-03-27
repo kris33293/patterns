@@ -54,3 +54,23 @@ com/kodilla/patterns2/aop/calculator/Watcher.java
  com.kodilla.patterns2.aop.calculator.Watcher
 com/kodilla/patterns2/facade/api/Event.java
  com.kodilla.patterns2.facade.api.Event
+com/kodilla/patterns2/observer/forum/Observer.java
+ com.kodilla.patterns2.observer.forum.Observer
+com/kodilla/patterns2/observer/forum/ForumTopic.java
+ com.kodilla.patterns2.observer.forum.ForumTopic
+com/kodilla/patterns2/observer/forum/JavaToolsForumTopic.java
+ com.kodilla.patterns2.observer.forum.JavaToolsForumTopic
+com/kodilla/patterns2/observer/forum/ForumUser.java
+ com.kodilla.patterns2.observer.forum.ForumUser
+com/kodilla/patterns2/observer/forum/Observable.java
+ com.kodilla.patterns2.observer.forum.Observable
+com/kodilla/patterns2/observer/forum/JavaHelpForumTopic.java
+ com.kodilla.patterns2.observer.forum.JavaHelpForumTopic
+com/kodilla/patterns2/observer/homework/Mentor.java
+ com.kodilla.patterns2.observer.homework.Mentor
+com/kodilla/patterns2/observer/homework/Student.java
+ com.kodilla.patterns2.observer.homework.Student
+com/kodilla/patterns2/observer/homework/Inform.java
+ com.kodilla.patterns2.observer.homework.Inform
+com/kodilla/patterns2/observer/homework/Task.java
+ com.kodilla.patterns2.observer.homework.Task
