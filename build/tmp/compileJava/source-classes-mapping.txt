@@ -48,3 +48,9 @@ com/kodilla/patterns2/decorator/pizza/AddHamDecorator.java
  com.kodilla.patterns2.decorator.pizza.AddHamDecorator
 com/kodilla/patterns2/facade/Order.java
  com.kodilla.patterns2.facade.Order
+com/kodilla/patterns2/aop/calculator/Calculator.java
+ com.kodilla.patterns2.aop.calculator.Calculator
+com/kodilla/patterns2/aop/calculator/Watcher.java
+ com.kodilla.patterns2.aop.calculator.Watcher
+com/kodilla/patterns2/facade/api/Event.java
+ com.kodilla.patterns2.facade.api.Event
