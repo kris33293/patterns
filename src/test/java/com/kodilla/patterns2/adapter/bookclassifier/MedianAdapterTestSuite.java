@@ -32,7 +32,7 @@ public class MedianAdapterTestSuite {
 
         //Then
         System.out.println(median);
-        assertEquals(median,1978);
+        assertEquals(1978, median);
 
     }
 }
