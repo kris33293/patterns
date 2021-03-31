@@ -1,7 +1,7 @@
 com/kodilla/patterns2/decorator/taxiportal/MyTaxiNetworkOrderDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.MyTaxiNetworkOrderDecorator
-com/kodilla/patterns2/facade/manytomany/Company.java
- com.kodilla.patterns2.facade.manytomany.Company
+com/kodilla/patterns2/facade/api/ItemDto.java
+ com.kodilla.patterns2.facade.api.ItemDto
 com/kodilla/patterns2/decorator/taxiportal/TaxiNetworkOrderDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.TaxiNetworkOrderDecorator
 com/kodilla/patterns2/adapter/bookclassifier/MedianAdaptee.java
@@ -44,8 +44,8 @@ com/kodilla/patterns2/decorator/taxiportal/ChildSeatDecorator.java
  com.kodilla.patterns2.decorator.taxiportal.ChildSeatDecorator
 com/kodilla/patterns2/decorator/taxiportal/TaxiOrder.java
  com.kodilla.patterns2.decorator.taxiportal.TaxiOrder
-com/kodilla/patterns2/facade/manytomany/Employee.java
- com.kodilla.patterns2.facade.manytomany.Employee
+com/kodilla/patterns2/observer/forum/Observable.java
+ com.kodilla.patterns2.observer.forum.Observable
 com/kodilla/patterns2/decorator/pizza/AddPepperDecorator.java
  com.kodilla.patterns2.decorator.pizza.AddPepperDecorator
 com/kodilla/patterns2/decorator/pizza/AddHamDecorator.java
@@ -60,8 +60,8 @@ com/kodilla/patterns2/adapter/bookclassifier/librarya/Classifier.java
  com.kodilla.patterns2.adapter.bookclassifier.librarya.Classifier
 com/kodilla/patterns2/facade/Item.java
  com.kodilla.patterns2.facade.Item
-com/kodilla/patterns2/facade/manytomany/facade/FacadeApi.java
- com.kodilla.patterns2.facade.manytomany.facade.FacadeApi
+com/kodilla/patterns2/facade/Order.java
+ com.kodilla.patterns2.facade.Order
 com/kodilla/patterns2/adapter/company/newhrsystem/CompanySalaryProcessor.java
  com.kodilla.patterns2.adapter.company.newhrsystem.CompanySalaryProcessor
 com/kodilla/patterns2/adapter/company/SalaryAdaptee.java
@@ -108,9 +108,9 @@ com/kodilla/patterns2/adapter/bookclassifier/librarya/Book.java
  com.kodilla.patterns2.adapter.bookclassifier.librarya.Book
 com/kodilla/patterns2/adapter/bookclassifier/libraryb/BookStatistics.java
  com.kodilla.patterns2.adapter.bookclassifier.libraryb.BookStatistics
-com/kodilla/patterns2/facade/api/ItemDto.java
- com.kodilla.patterns2.facade.api.ItemDto
-com/kodilla/patterns2/facade/Order.java
- com.kodilla.patterns2.facade.Order
-com/kodilla/patterns2/observer/forum/Observable.java
- com.kodilla.patterns2.observer.forum.Observable
+com/kodilla/patterns2/facade/manytomany/Employee.java
+ com.kodilla.patterns2.facade.manytomany.Employee
+com/kodilla/patterns2/facade/manytomany/Company.java
+ com.kodilla.patterns2.facade.manytomany.Company
+com/kodilla/patterns2/facade/manytomany/facade/FacadeApi.java
+ com.kodilla.patterns2.facade.manytomany.facade.FacadeApi
