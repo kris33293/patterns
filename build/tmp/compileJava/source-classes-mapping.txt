@@ -108,9 +108,9 @@ com/kodilla/patterns2/adapter/bookclassifier/librarya/Book.java
  com.kodilla.patterns2.adapter.bookclassifier.librarya.Book
 com/kodilla/patterns2/adapter/bookclassifier/libraryb/BookStatistics.java
  com.kodilla.patterns2.adapter.bookclassifier.libraryb.BookStatistics
-com/kodilla/patterns2/facade/manytomany/Employee.java
- com.kodilla.patterns2.facade.manytomany.Employee
 com/kodilla/patterns2/facade/manytomany/Company.java
  com.kodilla.patterns2.facade.manytomany.Company
+com/kodilla/patterns2/facade/manytomany/Employee.java
+ com.kodilla.patterns2.facade.manytomany.Employee
 com/kodilla/patterns2/facade/manytomany/facade/FacadeApi.java
  com.kodilla.patterns2.facade.manytomany.facade.FacadeApi

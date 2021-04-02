@@ -9,7 +9,7 @@ import java.util.List;
 
 @NamedNativeQuery(
         name = "Employee.retrieveEmployeeByPartName",
-        query = "SELECT * FROM Employees WHERE LASTNAME LIKE  :NAME",
+        query = "SELECT * FROM Employees WHERE LASTNAME LIKE CONCAT('%',:NAME,'%')",
         resultClass = Employee.class
 )
 

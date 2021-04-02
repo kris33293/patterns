@@ -54,7 +54,7 @@ public class FacadeTestSuite{
         facadeApi.addCompany(greyMatter);
 
         //When
-        List<Company> result2 = facadeApi.findCompanyByPartName("%oftw%");
+        List<Company> result2 = facadeApi.findCompanyByPartName("oftw");
 
         //Then
         Assertions.assertEquals(result.get(0).getName(),result2.get(0).getName());
@@ -95,7 +95,7 @@ public class FacadeTestSuite{
         facadeApi.addCompany(greyMatter);
 
         //When
-        List<Employee> result2 = facadeApi.findEmployeeByPartName("%mit%");
+        List<Employee> result2 = facadeApi.findEmployeeByPartName("mit");
 
         //Then
         Assertions.assertEquals(result.get(0).getLastname(),result2.get(0).getLastname());
